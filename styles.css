@@ -19,15 +19,15 @@ Best viewed on larger screens
 /*** Import Custom Font ***/
 @font-face {
     font-family: "Mumble Grumble";
-    src: url('/assets/fonts/Mumblegrumbleibb-0jy4.woff2') format('woff2'),
-         url('/assets/fonts/Mumblegrumbleibb-0jy4.otf') format('opentype');
+    src: url('assets/fonts/Mumblegrumbleibb-0jy4.woff2') format('woff2'),
+         url('assets/fonts/Mumblegrumbleibb-0jy4.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Questa Grande";
-    src: url('/assets/fonts/2-questa_grande_regular_31.otf') format('opentype');
+    src: url('assets/fonts/2-questa_grande_regular_31.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
