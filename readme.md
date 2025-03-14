@@ -1,6 +1,6 @@
 # Shophouses - CSS Illustration
 
-This repository contains a collection of CSS illustrations of shophouses, created using pure HTML and CSS. No images or external libraries are used, showcasing the power and flexibility of CSS for creating intricate designs.
+This repository contains an illustration of shophouses, created using pure HTML and CSS. No images or external libraries are used, showcasing the power and flexibility of CSS for creating intricate designs.
 
 ![Shophouse Art Illustration Preview](/assets/images/website-screenshot.png)
 
